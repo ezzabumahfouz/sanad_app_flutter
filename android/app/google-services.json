@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889593117608",
+    "project_id": "sanad-app-flutter",
+    "storage_bucket": "sanad-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889593117608:android:93aee36e5d3eb4debcbb9d",
+        "android_client_info": {
+          "package_name": "com.example.sanad_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889593117608-267ekr4lse6mucq74m7k5tktlq269mbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-2xiqbjl43afYSGkcdnzPs_rnmQDKHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889593117608-267ekr4lse6mucq74m7k5tktlq269mbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
